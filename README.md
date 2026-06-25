@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aura-45/leetcode/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Aura-45/leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
