@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aura-45/leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Aura-45/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Aura-45/leetcode/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
