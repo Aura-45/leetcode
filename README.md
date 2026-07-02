@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Aura-45/leetcode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aura-45/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
