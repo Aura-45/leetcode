@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Aura-45/leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0088-merge-sorted-array) |
+| [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,10 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
