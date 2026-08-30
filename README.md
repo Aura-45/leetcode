@@ -77,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
