@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
