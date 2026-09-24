@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aura-45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aura-45/leetcode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Aura-45/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
