@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Aura-45/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
