@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aura-45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/Aura-45/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 ## Monotonic Stack
 |  |
