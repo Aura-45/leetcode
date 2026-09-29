@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Aura-45/leetcode/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/Aura-45/leetcode/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Aura-45/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aura-45/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aura-45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aura-45/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aura-45/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Aura-45/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/Aura-45/leetcode/tree/master/0556-next-greater-element-iii) |
