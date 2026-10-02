@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aura-45/leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aura-45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Aura-45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aura-45/leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/Aura-45/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0917-reverse-only-letters](https://github.com/Aura-45/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aura-45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aura-45/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Aura-45/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
 ## Design
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aura-45/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aura-45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Aura-45/leetcode/tree/master/1539-kth-missing-positive-number) |
