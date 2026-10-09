@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aura-45/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Aura-45/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aura-45/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aura-45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
 ## Bracket Sequences
 |  |
 | ------- |
