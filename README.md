@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aura-45/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aura-45/leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Aura-45/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aura-45/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aura-45/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aura-45/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
 ## Bracket Sequences
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aura-45/leetcode/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aura-45/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
