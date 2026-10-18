@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Aura-45/leetcode/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/Aura-45/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Aura-45/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aura-45/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aura-45/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aura-45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aura-45/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aura-45/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
