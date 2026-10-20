@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aura-45/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Aura-45/leetcode/tree/master/0885-spiral-matrix-iii) |
 ## Simulation
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aura-45/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/Aura-45/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aura-45/leetcode/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
