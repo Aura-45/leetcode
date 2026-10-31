@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aura-45/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
 | [0885-spiral-matrix-iii](https://github.com/Aura-45/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Aura-45/leetcode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/Aura-45/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aura-45/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
