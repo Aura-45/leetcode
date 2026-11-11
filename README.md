@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Aura-45/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aura-45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aura-45/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/Aura-45/leetcode/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aura-45/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aura-45/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Bracket Sequences
 |  |
 | ------- |
