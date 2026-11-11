@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/Aura-45/leetcode/tree/master/0817-linked-list-components) |
+| [0895-maximum-frequency-stack](https://github.com/Aura-45/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Design
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aura-45/leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Aura-45/leetcode/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/Aura-45/leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Stack
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aura-45/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aura-45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aura-45/leetcode/tree/master/0496-next-greater-element-i) |
+| [0895-maximum-frequency-stack](https://github.com/Aura-45/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/Aura-45/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Aura-45/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Aura-45/leetcode/tree/master/0337-house-robber-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Aura-45/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
