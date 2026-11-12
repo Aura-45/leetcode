@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aura-45/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aura-45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aura-45/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
