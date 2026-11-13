@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aura-45/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aura-45/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Aura-45/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Aura-45/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Aura-45/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
