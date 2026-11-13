@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Aura-45/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Aura-45/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aura-45/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aura-45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1539-kth-missing-positive-number](https://github.com/Aura-45/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Aura-45/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/Aura-45/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Aura-45/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aura-45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Aura-45/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Aura-45/leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Aura-45/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aura-45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aura-45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aura-45/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Database
