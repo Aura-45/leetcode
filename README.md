@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 ## Dynamic Programming
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aura-45/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aura-45/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bracket Sequences
 |  |
