@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aura-45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aura-45/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aura-45/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Aura-45/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 ## Two Pointers
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Aura-45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aura-45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aura-45/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Aura-45/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aura-45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Aura-45/leetcode/tree/master/0239-sliding-window-maximum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aura-45/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Aura-45/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Quickselect
 |  |
 | ------- |
