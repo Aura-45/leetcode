@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Aura-45/leetcode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/Aura-45/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/Aura-45/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
