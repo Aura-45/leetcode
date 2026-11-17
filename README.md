@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Aura-45/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aura-45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Aura-45/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aura-45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
