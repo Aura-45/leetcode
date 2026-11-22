@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aura-45/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3748-count-stable-subarrays](https://github.com/Aura-45/leetcode/tree/master/3748-count-stable-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Aura-45/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aura-45/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aura-45/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Aura-45/leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aura-45/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aura-45/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Aura-45/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bracket Sequences
 |  |
